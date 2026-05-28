@@ -84,8 +84,7 @@ Bayesian-Quadrature/
 │
 ├── BQ_KernelHyperparameterEstimation_GIF.py          # GIF animations
 │
-└── Thesis/
-    └── Bachelor's Thesis Mathematics_Bayesian Quadrature Theory and Comparative Simulation Study_Jelmer Wieringa.pdf
+└──── Bachelor's Thesis Mathematics_Bayesian Quadrature Theory and Comparative Simulation Study_Jelmer Wieringa.pdf
 ```
 
 ---
