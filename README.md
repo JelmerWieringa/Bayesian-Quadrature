@@ -78,13 +78,19 @@ Bayesian-Quadrature/
 ├── BQ_PosteriorDistribution.py                       # BQ posterior distribution over the integral
 ├── BQ_KernelHyperparameterEstimation.py              # MLE kernel selection & BQ simulation study
 │
+├── BQ_Animation.py                                   # GIF animations
+│
 ├── BQ_Example_MarginalLikelihood_SyntheticTrimodalLikelihood.py
 ├── BQ_Example_MarginalLikelihood_2Dimensional_SalaryData.py
 ├── BQ_Example_MarginalLikelihood_4Dimensional_ProfitData.py
 │
-├── BQ_KernelHyperparameterEstimation_GIF.py          # GIF animations
+├── Data/
+│   ├── Salary_Data.csv
+│   ├── ProfitStartups.csv
+│   └── StudentScore.csv
 │
-└──── Bachelor's Thesis Mathematics_Bayesian Quadrature Theory and Comparative Simulation Study_Jelmer Wieringa.pdf
+└── Thesis/
+    └── Bachelor's Thesis Mathematics_Bayesian Quadrature Theory and Comparative Simulation Study_Jelmer Wieringa.pdf
 ```
 
 ---
